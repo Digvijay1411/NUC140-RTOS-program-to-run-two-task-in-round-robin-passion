@@ -1,0 +1,12 @@
+abc123.o: abc123.c
+abc123.o: C:\Keil\ARM\RV31\Inc\RTL.h
+abc123.o: C:\Keil\ARM\Inc\Nuvoton\NUC1xx\NUC1xx.h
+abc123.o: ..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+abc123.o: C:\Keil\ARM\RV31\Inc\stdint.h
+abc123.o: C:\Keil\ARM\Inc\Nuvoton\NUC1xx\system_NUC1xx.h
+abc123.o: ..\..\NuvotonPlatform_Keil\Include\System\SysInfra.h
+abc123.o: ..\..\NuvotonPlatform_Keil\Include\System\ModuleID.h
+abc123.o: C:\Keil\ARM\RV31\Inc\stdio.h
+abc123.o: ..\..\NuvotonPlatform_Keil\Include\Driver\DrvSYS.h
+abc123.o: ..\..\NuvotonPlatform_Keil\Include\Driver\DrvGPIO.h
+abc123.o: ..\..\NuvotonPlatform_Keil\Include\NUC1xx-LB_002\LCD_Driver.h

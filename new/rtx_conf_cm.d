@@ -1,0 +1,9 @@
+rtx_conf_cm.o: C:\Keil\ARM\Startup\RTX_Conf_CM.c
+rtx_conf_cm.o: C:\Keil\ARM\RV31\Inc\RTL.h
+rtx_conf_cm.o: C:\Keil\ARM\Inc\Nuvoton\NUC1xx\NUC1xx.h
+rtx_conf_cm.o: ..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+rtx_conf_cm.o: C:\Keil\ARM\RV31\Inc\stdint.h
+rtx_conf_cm.o: C:\Keil\ARM\Inc\Nuvoton\NUC1xx\system_NUC1xx.h
+rtx_conf_cm.o: ..\..\NuvotonPlatform_Keil\Include\System\SysInfra.h
+rtx_conf_cm.o: ..\..\NuvotonPlatform_Keil\Include\System\ModuleID.h
+rtx_conf_cm.o: C:\Keil\ARM\RV31\Inc\RTX_lib.c

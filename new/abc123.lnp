@@ -1,0 +1,3 @@
+--cpu Cortex-M0 "startup_nuc1xx.o" "core_cm0.o" "system_nuc1xx.o" "ascii_table.o" "lcd_driver.o" "rtx_conf_cm.o" "drvgpio.o" "drvsys.o" "abc123.o" C:\Keil\ARM\RV31\Lib\RTX_CM1.LIB --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\abc123.map" -o "abc123.axf"

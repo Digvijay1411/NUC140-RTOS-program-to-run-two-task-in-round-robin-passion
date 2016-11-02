@@ -1,0 +1,26 @@
+*** Creating Trace Output File 'abc123.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_nuc1xx.o"'
+### List of Objects: adding '"core_cm0.o"'
+### List of Objects: adding '"system_nuc1xx.o"'
+### List of Objects: adding '"ascii_table.o"'
+### List of Objects: adding '"lcd_driver.o"'
+### List of Objects: adding '"rtx_conf_cm.o"'
+### List of Objects: adding '"drvgpio.o"'
+### List of Objects: adding '"drvsys.o"'
+### List of Objects: adding '"abc123.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 "startup_nuc1xx.o" "core_cm0.o" "system_nuc1xx.o" "ascii_table.o" "lcd_driver.o" "rtx_conf_cm.o" "drvgpio.o" "drvsys.o" "abc123.o" C:\Keil\ARM\RV31\Lib\RTX_CM1.LIB --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\abc123.map" -o "abc123.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'abc123.axf'
+### ADS-LD Command File: 'abc123.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'abc123.lnp', Handle=0x000005E8
+### Writing '.lnp' file
+### ADS-LD Command file 'abc123.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
